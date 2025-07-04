@@ -40,18 +40,16 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
 
 **Amazon-USB-and-Lightning-cable-product-analysis.**
 
-
-![image](Billionaire_dashboard.PNG)
-
-This dataset contains the names, demography, wealth status, fiinal worth of top rich individuals in the world.
-
+This project focuses on analyzing Amazon product data for various USB and Lightning charging cables. The goal is to derive insights into pricing strategies, customer preferences, product performance, and user reviews to inform decision-making for manufacturers, marketers, or retailers.
 
 [Read More](https://github.com/ejiro2024/Amazon-USB-and-Lightning-cable-product-analysis)
 
 
  **Palmora Group HR Analysis**
 
+This report provides insights into the employee structure at **Palmoria**, with a primary focus on gender-based analysis across departments and locations. It also includes evaluations of salary distributions, regulatory compliance, and bonus allocation.
 
+[Read More](https://github.com/ejiro2024/Palmora-Group-HR-Analysis-)
 
 ## CONTACT DETAILS
 
