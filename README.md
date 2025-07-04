@@ -38,7 +38,7 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
 
 *A glimpse of some of the projects I've been working on.*
 
-**Billionare Dataset Analysis.**
+**Amazon-USB-and-Lightning-cable-product-analysis.**
 
 
 ![image](Billionaire_dashboard.PNG)
@@ -46,8 +46,10 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
 This dataset contains the names, demography, wealth status, fiinal worth of top rich individuals in the world.
 
 
-[Read More](https://github.com/ejiro2024/Billionaire-Dataset-Project-Analysis)
- 
+[Read More](https://github.com/ejiro2024/Amazon-USB-and-Lightning-cable-product-analysis)
+
+
+ **Palmora Group HR Analysis**
 
 
 
